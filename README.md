@@ -1,0 +1,2 @@
+## Registration and Authorization in Node js
+In this tutorial we'll go through an example Node.js + MySQL API that supports user registration, login with JWT authentication and user management. For an extended example that includes username verification.
